@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE01ISSM-SBD17-06-CTDBPC000-telemetered-ctdbp_cdef_dcl_instrument
-last_request: '2021-07-19T18:07:42.416996Z'
+last_request: '2021-08-01T00:21:02.507185Z'
 response: https://raw.githubusercontent.com/ooi-data/CE01ISSM-SBD17-06-CTDBPC000-telemetered-ctdbp_cdef_dcl_instrument/main/history/response.json
-status: success
+status: pending
